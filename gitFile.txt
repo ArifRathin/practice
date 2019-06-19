@@ -1,1 +1,0 @@
-This is a file to learn and test git. This is the first file of this testing and learning process.
