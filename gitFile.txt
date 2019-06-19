@@ -1,9 +1,6 @@
 This is a file to learn and test git. This is the first file of this testing and learning process.
 
-<<<<<<< HEAD
-I am now adding a new line. So, there is a change in the file.
-=======
 I am now adding a new line. So, there is a change in the file.
 
 Hello Everyone.
->>>>>>> 4f144d5b1bb9d7a88da1096cf885f8e41f09e659
+
